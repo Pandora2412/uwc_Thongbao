@@ -334,7 +334,7 @@ const Inform = (props) => {
                 <div className="model" style={{background: "rgba(49,49,49,0.8)"}}>
                     <div style={{backgroundColor: 'white', width: '40%', margin: 'auto'}}>
                         <button className="Xbutton" onClick={()=> setMessage(false)}>X</button>
-                        <h2 style={{fontSize: '150%'}}>Thông báo được gửi thành công <FaCheckCircle /></h2>
+                        <h2 style={{fontSize: '150%'}}>Thông báo được gửi thành công! <FaCheckCircle /></h2>
                     </div>
                 </div>
             }
